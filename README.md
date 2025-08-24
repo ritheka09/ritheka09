@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ritheka09?tab=repositories](https://github.com/ritheka09?tab=repositories)
 
-- 📝 My Portfolio [https://ritheka09.github.io/Personal-Portfolio](https://ritheka09.github.io/Personal-Portfolio)
+- 📝 My Portfolio [https://ritheka09.github.io/Personal-Portfolio/](https://ritheka09.github.io/Personal-Portfolio/)
 
 - 📫 How to reach me [rithekam09@gmail.com](rithekam09@gmail.com)
 
